@@ -1,3 +1,4 @@
 # DiceeFlutterApp
-Flutter App Created From Course to Practice
+This App was Created to learn the basics of Flutter app development and the Dart programming language.
+#Demo of Dicee App
 ![Dicee Demo](demo/DiceApp.gif)
